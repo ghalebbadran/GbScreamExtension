@@ -6,6 +6,6 @@ As developers, we dread unhandled exceptions. These bugs can be difficult to spo
 
 This innovative auditory cue is an effective way to draw your attention immediately to the problem, particularly during long coding sessions or when you're multitasking. This screaming notifier is not just functional but also brings a touch of levity to the often stressful task of debugging.
 
-The Screaming Debugger doesn't stop there, It provides an exceptional balance of utility and amusement, keeping you alert, informed, and smiling, even during the trickiest debugging challenges.
+The Screaming Debugger doesn't stop there, users can configure the path to the .wav file through Visual Studio's Options dialog (Tools > Options > Screaming Debugger > General).
 
 If you're looking for a fun, novel, and effective way to manage unhandled exceptions in your code, then the Screaming Debugger is the Visual Studio extension you need. Get ready for a screamingly good debugging experience!

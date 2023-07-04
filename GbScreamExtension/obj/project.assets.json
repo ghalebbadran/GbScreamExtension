@@ -13572,11 +13572,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\POC\\GbScreamExtension\\GbScreamExtension\\GbScreamExtension.csproj",
+      "projectUniqueName": "C:\\POC\\POCGithub\\GbScreamExtension\\GbScreamExtension\\GbScreamExtension.csproj",
       "projectName": "GbScreamExtension",
-      "projectPath": "C:\\POC\\GbScreamExtension\\GbScreamExtension\\GbScreamExtension.csproj",
+      "projectPath": "C:\\POC\\POCGithub\\GbScreamExtension\\GbScreamExtension\\GbScreamExtension.csproj",
       "packagesPath": "C:\\Users\\a.abdelhalim\\.nuget\\packages\\",
-      "outputPath": "C:\\POC\\GbScreamExtension\\GbScreamExtension\\obj\\",
+      "outputPath": "C:\\POC\\POCGithub\\GbScreamExtension\\GbScreamExtension\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

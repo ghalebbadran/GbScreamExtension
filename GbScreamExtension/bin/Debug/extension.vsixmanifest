@@ -1,6 +1,6 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
   <Metadata>
-    <Identity Id="GbScreamExtension.e1e34f0a-9c4d-453c-aafd-421deebef2ad" Version="1.0" Language="en-US" Publisher="Ghaleb Badran" />
+    <Identity Id="GbScreamExtension.e1e34f0a-9c4d-453c-aafd-421deebef2ad" Version="1.1" Language="en-US" Publisher="Ghaleb Badran" />
     <DisplayName>The Screaming Debugger</DisplayName>
     <Description xml:space="preserve">Unleash the ultimate debugging experience with the Screaming Debugger</Description>
     <Tags>Fun</Tags>
